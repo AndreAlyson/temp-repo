@@ -15,5 +15,5 @@ git remote add origin git@github.com:AndreAlyson/temp-repo.git
 # Editei
 git add .
 git commit -m 'Initial'
-git push origin master
+git push origin master (colocando o -u depois de master só precisa utilizar git push quando for colocar a edição no github)
 
